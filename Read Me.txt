@@ -1,0 +1,10 @@
+Read Me
+
+This project was programmed in SAS in order to predict the median housing value of houses from California. 
+
+Process: Creating a library, importing the data, and running exploratory options to study the data. Then, a glm select and reg procedure was used to study the target variable. 
+
+What is included:
+-The SAS program file with the code.
+-The pdf file of the output results.
+-A csv file with the data.
